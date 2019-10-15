@@ -1,0 +1,11 @@
+<!--<resources>--><!--<string name="app_name">com.assign.two</string>--><!--</resources>-->
+
+
+<resources>
+
+    <string name="app_name">com.assign.two</string>
+    <string name="forecast">Forecast</string>
+    <string name="detail">Details</string>
+    <string name="feeling_temp">apparent temperature</string>
+    <string name="humidity">humidity</string>
+</resources>

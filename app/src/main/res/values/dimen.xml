@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="btnWid">25dp</dimen>
+    <dimen name="btnHgt">25dp</dimen>
+    <dimen name="btnMrgLeft">10dp</dimen>
+</resources>
